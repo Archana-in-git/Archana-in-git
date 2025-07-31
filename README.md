@@ -4,7 +4,7 @@
 <h3 align="center">🚀 Final-year BCA Student | 💻 Flutter + Firebase + MERN Stack | 🎨 UI/UX Focused</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=2000&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Building+ResQNow+%F0%9F%9A%91+;Web+developer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+;Mobile+app+developer+%F0%9F%93%B1+;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Building+ResQNow+%F0%9F%9A%91+;Web+developer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+;Mobile+app+developer+%F0%9F%93%B1+;" alt="Typing SVG" />
 </p>
 
 ---
@@ -61,9 +61,9 @@
 ## 💬 Let’s Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/archana-v-s2911"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:archanavs2911@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Archana-in-git"><img src="https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
