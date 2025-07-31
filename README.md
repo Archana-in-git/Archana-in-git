@@ -56,6 +56,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archana-in-git&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
 </p>
 
+<img src="https://github-profile-trophy.vercel.app/?username=Archana-in-git&theme=gruvbox&row=1&no-bg=true&no-frame=true" />
+
 ---
 
 ## 💬 Let’s Connect
