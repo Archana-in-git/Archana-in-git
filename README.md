@@ -1,7 +1,7 @@
 <!-- 🌐 Archana | Full Stack + Mobile Developer GitHub Profile README -->
 
 <h1 align="center">Hey there! 👋 I'm Archana</h1>
-<h3 align="center">🚀 Final-year BCA Student | 💻 Flutter + Firebase + MERN Stack | 🎨 UI/UX Focused</h3>
+<h3 align="center">🚀 Final-year BCA Student | 💻 Flutter + Firebase + MERN Stack | 🎨 UI/UX</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Building+ResQNow+%F0%9F%9A%91+;Web+developer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+;Mobile+app+developer+%F0%9F%93%B1+;" alt="Typing SVG" />
