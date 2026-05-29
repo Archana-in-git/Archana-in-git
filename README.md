@@ -412,14 +412,7 @@
 
 <br/><br/>
 
-<!-- profile views -->
-<img src="https://komarev.com/ghpvc/?username=archana&label=profile+views&color=a855f7&style=flat-square" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/archana?label=followers&style=flat-square&color=06b6d4&labelColor=0d1117" />
 
-</div>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    FOOTER WAVE                                -->
