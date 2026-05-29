@@ -138,47 +138,206 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      TECH STACK GRID                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<h2>
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28px" />
-  &nbsp;the toolkit
-</h2>
+<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
+<!-- ║               T H E   W O R K S P A C E                      ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
 
 <br/>
 
-<!-- Row 1: Mobile -->
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/─&nbsp;mobile&nbsp;─-1a1a2e?style=flat-square&labelColor=1a1a2e&color=a855f7" />
-</p>
+<div align="center">
 
-<!-- Row 2: Web -->
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/─&nbsp;web&nbsp;─-1a1a2e?style=flat-square&labelColor=1a1a2e&color=06b6d4" />
-</p>
+<!-- Section Entry Banner -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0d1a,50:1a0533,100:0d0d1a&height=60&text=the+workspace&fontSize=20&fontColor=c4b5fd&fontAlignY=55&animation=fadeIn" width="100%" />
 
-<!-- Row 3: Core -->
-<p>
-<img src="https://skillicons.dev/icons?i=js,python,html,css&theme=dark" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/─&nbsp;core&nbsp;─-1a1a2e?style=flat-square&labelColor=1a1a2e&color=f59e0b" />
-</p>
+</div>
 
-<!-- Row 4: Tools -->
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/─&nbsp;tools&nbsp;─-1a1a2e?style=flat-square&labelColor=1a1a2e&color=ec4899" />
-</p>
+<br/>
 
+<!-- ─────────────────────────────────────────────────────────────── -->
+<!--  TIER 1 — MOBILE CORE  (Flutter · Dart · Firebase)            -->
+<!-- ─────────────────────────────────────────────────────────────── -->
+
+<div align="center">
+
+<table border="0" cellpadding="0" cellspacing="0" width="92%">
+<tr>
+<td align="center" width="100%">
+
+<!-- GROUP LABEL -->
+<img src="https://img.shields.io/badge/%E2%80%8B-mobile%20native-7c3aed?style=flat-square&labelColor=1a0533&color=1a0533&logoColor=c4b5fd" height="22"/>
+
+</td>
+</tr>
+<tr><td height="10"></td></tr>
+<tr>
+<!-- Flutter Card -->
+<td align="center" width="33%">
+
+<a href="https://flutter.dev">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=54C5F8&labelColor=050d2e" height="44"/>
+</a>
+
+</td>
+<!-- Dart Card -->
+<td align="center" width="33%">
+
+<a href="https://dart.dev">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=80d1ff&labelColor=050d2e" height="44"/>
+</a>
+
+</td>
+<!-- Firebase Card -->
+<td align="center" width="33%">
+
+<a href="https://firebase.google.com">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=FFA000&labelColor=1a0d00" height="44"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- ─────────────────────────────────────────────────────────────── -->
+<!--  TIER 2 — WEB STACK  (React · Node · Express · MongoDB)       -->
+<!-- ─────────────────────────────────────────────────────────────── -->
+
+<div align="center">
+
+<!-- Animated separator glyph -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=13&duration=2000&pause=4000&color=4B2D8F&center=true&vCenter=true&width=320&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%97%8B%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80" />
+
+<br/>
+
+<table border="0" cellpadding="0" cellspacing="0" width="92%">
+<tr>
+<td align="center" colspan="4">
+<img src="https://img.shields.io/badge/%E2%80%8B-web+stack-06b6d4?style=flat-square&labelColor=001a1f&color=001a1f" height="22"/>
+</td>
+</tr>
+<tr><td height="10"></td></tr>
+<tr>
+<!-- React -->
+<td align="center" width="25%">
+<a href="https://react.dev">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0a1628" height="44"/>
+</a>
+</td>
+<!-- Node.js -->
+<td align="center" width="25%">
+<a href="https://nodejs.org">
+  <img src="https://img.shields.io/badge/Node.js-1a472a?style=for-the-badge&logo=node.js&logoColor=6fcf97&labelColor=0a1a10" height="44"/>
+</a>
+</td>
+<!-- Express -->
+<td align="center" width="25%">
+<a href="https://expressjs.com">
+  <img src="https://img.shields.io/badge/Express-2d2d2d?style=for-the-badge&logo=express&logoColor=aaaaaa&labelColor=111111" height="44"/>
+</a>
+</td>
+<!-- MongoDB -->
+<td align="center" width="25%">
+<a href="https://mongodb.com">
+  <img src="https://img.shields.io/badge/MongoDB-001e2b?style=for-the-badge&logo=mongodb&logoColor=00ED64&labelColor=001219" height="44"/>
+</a>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- ─────────────────────────────────────────────────────────────── -->
+<!--  TIER 3 — CREATIVE TOOLS  (Figma · VS Code)                   -->
+<!-- + CORE INSTRUMENTS  (Git · GitHub)                            -->
+<!--  BENTO ASYMMETRIC LAYOUT                                       -->
+<!-- ─────────────────────────────────────────────────────────────── -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=13&duration=2000&pause=4000&color=4B2D8F&center=true&vCenter=true&width=320&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%97%8B%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80" />
+
+<br/>
+
+<!-- Bento Row: [Figma WIDE] [Git] [GitHub] [VSCode WIDE] -->
+<table border="0" cellpadding="4" cellspacing="0" width="92%">
+<tr>
+<td align="center" colspan="4">
+<img src="https://img.shields.io/badge/%E2%80%8B-craft+%26+control-ec4899?style=flat-square&labelColor=1a0011&color=1a0011" height="22"/>
+</td>
+</tr>
+<tr><td height="10"></td></tr>
+<tr>
+<!-- Figma — wider accent card -->
+<td align="center" width="30%">
+<a href="https://figma.com">
+  <img src="https://img.shields.io/badge/Figma-1e1e2e?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=1a0d1a" height="44"/>
+</a>
+</td>
+<!-- Git -->
+<td align="center" width="20%">
+<a href="https://git-scm.com">
+  <img src="https://img.shields.io/badge/Git-1a0a00?style=for-the-badge&logo=git&logoColor=F05032&labelColor=1a0a00" height="44"/>
+</a>
+</td>
+<!-- GitHub -->
+<td align="center" width="20%">
+<a href="https://github.com">
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=c9d1d9&labelColor=0d1117" height="44"/>
+</a>
+</td>
+<!-- VS Code — wider accent card -->
+<td align="center" width="30%">
+<a href="https://code.visualstudio.com">
+  <img src="https://img.shields.io/badge/VS%20Code-0a1628?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0a1628" height="44"/>
+</a>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- ─────────────────────────────────────────────────────────────── -->
+<!--  ANIMATED ECOSYSTEM BANNER                                     -->
+<!--  Full-width immersive "orbit" visual                          -->
+<!-- ─────────────────────────────────────────────────────────────── -->
+
+<div align="center">
+
+<br/>
+
+<!-- Animated orbital skill cloud using typing SVG rhythm -->
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=200&size=14&duration=1800&pause=300&color=6d28d9&center=true&vCenter=true&width=700&separator=%3B&lines=Flutter+%C2%B7+Dart+%C2%B7+Firebase+%C2%B7+React+%C2%B7+Node.js+%C2%B7+MongoDB+%C2%B7+Figma+%C2%B7+Git;always+building+%C2%B7+always+designing+%C2%B7+always+shipping" />
+
+<br/><br/>
+
+<!-- Skill proficiency micro-indicators — animated progress pills -->
+<img src="https://img.shields.io/badge/Flutter-████████░░-a855f7?style=flat-square&labelColor=0d0d1a" />
+&nbsp;
+<img src="https://img.shields.io/badge/React-███████░░░-06b6d4?style=flat-square&labelColor=0d0d1a" />
+&nbsp;
+<img src="https://img.shields.io/badge/Firebase-████████░░-f59e0b?style=flat-square&labelColor=0d0d1a" />
+&nbsp;
+<img src="https://img.shields.io/badge/Node.js-██████░░░░-4ade80?style=flat-square&labelColor=0d0d1a" />
+&nbsp;
+<img src="https://img.shields.io/badge/Figma-███████░░░-ec4899?style=flat-square&labelColor=0d0d1a" />
+
+</div>
+
+<br/>
+
+<!-- ─────────────────────────────────────────────────────────────── -->
+<!--  SECTION EXIT  — gradient fade-out bar                        -->
+<!-- ─────────────────────────────────────────────────────────────── -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d1a,30:1a0533,70:001a1f,100:0d0d1a&height=3&width=100%25" width="100%" height="3"/>
 </div>
 
 <br/>
